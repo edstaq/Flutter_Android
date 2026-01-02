@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "49768949748",
+    "firebase_url": "https://cu-book-8e865-default-rtdb.firebaseio.com",
+    "project_id": "cu-book-8e865",
+    "storage_bucket": "cu-book-8e865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49768949748:android:461529885f6b140612fba1",
+        "android_client_info": {
+          "package_name": "com.asrgroup.cuguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49768949748-fjian1pc9thsma8sbfv40ljhsh32rmkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asrgroup.cuguide",
+            "certificate_hash": "619a709b69d8c985814a6bad0ce5f1f399f8c745"
+          }
+        },
+        {
+          "client_id": "49768949748-k9g081nqoe0avoh1081l9u1572pk1aok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asrgroup.cuguide",
+            "certificate_hash": "0c0618ccf781a888bfd4e495e505febef8e5a9e3"
+          }
+        },
+        {
+          "client_id": "49768949748-tka449djova9a4jst9dp3cde047ajpl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asrgroup.cuguide",
+            "certificate_hash": "8205c34c39c427cb4d5870a07e6e21887258c430"
+          }
+        },
+        {
+          "client_id": "49768949748-q8ej7m59bj4l4a9tjmnri1kd0kr7o0qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWyfzXIzFDYD46wCK7LcmeRRzDOg3e4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49768949748-q8ej7m59bj4l4a9tjmnri1kd0kr7o0qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6855577507006829~2135691716"
+    }
+  ],
+  "configuration_version": "1"
+}
