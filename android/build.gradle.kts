@@ -5,7 +5,7 @@
         }
         // ...
         dependencies {
-            classpath("com.android.tools.build:gradle:8.5.0") // Example: Android Gradle Plugin
+            classpath("com.android.tools.build:gradle:8.5.1") // Example: Android Gradle Plugin
             classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.0") // Example: Kotlin Gradle Plugin
             classpath("com.google.gms:google-services:4.4.2") // Example: Kotlin Gradle Plugin
             classpath("com.google.firebase:firebase-crashlytics-gradle:2.9.9") // Example: Kotlin Gradle Plugin
