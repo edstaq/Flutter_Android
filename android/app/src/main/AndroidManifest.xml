@@ -2,7 +2,8 @@
     <application
         android:label="EDSTAQ"
         android:name="${applicationName}"
-        android:icon="@mipmap/launcher_icon">
+        android:icon="@mipmap/launcher_icon"
+        android:allowNativeHeapPointerTagging="false">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-6855577507006829~2135691716"/>
